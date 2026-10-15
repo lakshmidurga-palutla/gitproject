@@ -1,3 +1,4 @@
 My first Git project
 I am learning Git commands
 Git practice is going well
+Today I am practicing Git diff
