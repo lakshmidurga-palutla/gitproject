@@ -2,4 +2,8 @@ My first Git project
 I am learning Git commands
 Git practice is going well
 Today I am practicing Git diff
+<<<<<<< HEAD
 Hello from main branch
+=======
+Hello from conflict-practice branch
+>>>>>>> conflict-practice
