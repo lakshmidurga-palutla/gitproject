@@ -1,1 +1,2 @@
 Git staging practice two
+Another staging practice
